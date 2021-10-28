@@ -8,11 +8,13 @@
 
 ## 如何参与项目 ？
 
-1. 扫描下面二维码或点击链接填写信息或者下载模板填写并上传；https://docs.qq.com/form/page/DVWlUaGJORXpzZFd0#/fil
+1. 扫描下面二维码或点击链接填写信息相关信息：[程序员脱单计划嘉宾邀请表](https://docs.qq.com/form/page/DTEpXZ09GRU52eXRa?_w_tencentdocx_form=1)
+
 2. 关注公众号了解更多详细信息
-3.等待幸福来敲门
+
+3. 等待幸福来敲门
    
-![](https://github.com/ityouknow/programmer-not-lonely/blob/main/image/message.jpg)
+![](https://cxy521.com/static/img/wechat/collect.jpg)
 
  [个人介绍模板](./个人信息模板.md)
 
@@ -28,7 +30,7 @@
 
 
 
-## 当前分区
+## 当前脱单嘉宾
 
 
 ### 上海
