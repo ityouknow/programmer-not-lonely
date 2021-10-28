@@ -14,7 +14,7 @@
 
 3. 等待幸福来敲门
    
-![](https://cxy521.com/static/img/wechat/collect.jpg)
+![](https://cxy521.com/static/img/wechat/collect.png)
 
  [个人介绍模板](./个人信息模板.md)
 
